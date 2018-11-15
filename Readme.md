@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ShowLabelsOnHotTrack/Form1.cs) (VB: [Form1.vb](./VB/ShowLabelsOnHotTrack/Form1.vb))
+* [Program.cs](./CS/ShowLabelsOnHotTrack/Program.cs) (VB: [Program.vb](./VB/ShowLabelsOnHotTrack/Program.vb))
+<!-- default file list end -->
 # How to show series labels for hot-tracked points
 
 
